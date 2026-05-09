@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI-focused Software Engineer with 8+ years of experience building scalable, high-performance web applications using Angular, React.js, Node.js, and modern JavaScript frameworks. Strong background in designing clean, maintainable frontend architectures, developing RESTful APIs with Spring Boot and Node.js, and delivering seamless user experiences in agile environments. Passionate about code quality, performance optimization, and continuous learning.
+Senior Software Engineer with 7 years of experience building scalable, high-performance web applications using Angular, React.js, and Spring Boot, microservices. Strong background in designing clean, maintainable frontend architectures, developing RESTful APIs with Spring Boot, and delivering seamless user experiences in agile environments. Passionate about code quality, performance optimization, and continuous learning.
 
 
 ## 🌐 Socials:
